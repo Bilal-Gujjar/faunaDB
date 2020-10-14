@@ -7,5 +7,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bilal-Gujjar/faunaDB.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Bilal-Gujjar/faunaDB/issues"
+  },
+  "homepage": "https://github.com/Bilal-Gujjar/faunaDB#readme",
+  "description": "",
+  "dependencies": {
+    "faunadb": "^3.0.1"
+  }
 }
